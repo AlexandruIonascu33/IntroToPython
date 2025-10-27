@@ -1,6 +1,7 @@
 # You can put arithmetic operations inside a print command. 
 # Running it will then print out the result of the operation. 
 # For example, the following program
+
 print(2 + 5)
 print(3 * 3)
 print(2 + 2 * 10)

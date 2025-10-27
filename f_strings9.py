@@ -15,7 +15,7 @@ print(f"The result is {result}")
 # city = "Palo Alto"
 # print(f"Hi {name}, you are {age} years old. You live in {city}.")
 
-# 1.
+# Exercise:
 # Your friend is working on an app for jobseekers. She sends you a bit of code.
 
 
