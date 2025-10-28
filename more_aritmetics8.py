@@ -12,6 +12,7 @@
 # Hint: covert the input into a integer when prompting the user
 
 
+
 # 2.
 # This program asks the user for three numbers. The program then prints out their product, that is, the numbers multiplied by each other. 
 # There is, however, something wrong with the program - it doesn't work quite right, as you can see if you run it. 

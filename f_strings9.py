@@ -6,8 +6,8 @@
 
 #With f-strings the previous example would look like this:
 
-result = 10 * 25
-print(f"The result is {result}")
+# result = 10 * 25
+# print(f"The result is {result}")
 
 
 # name = "Mark"

@@ -1,3 +1,5 @@
+# https://www.w3schools.com/python/python_variables.asp
+# 
 # 1.
 #  Please write a program which asks for the user's name
 # and then prints it twice, on two consecutive lines.
